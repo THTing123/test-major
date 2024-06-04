@@ -1,0 +1,3 @@
+[submodule "vst_gpu"]
+	path = vst_gpu
+	url = git@github.com:THTing123/vst_gpu.git
